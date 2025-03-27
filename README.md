@@ -5,7 +5,7 @@
 ```
 I am Salomon Pinto
 -------------------------
-💻 I am a self-taught UX/UI Designer and Full Stack Developer.
+💻 I am a study UX/UI Designer and Full Stack Developer.
 📚 I have a background in UX/UI Design, Programming, and Web Development.
 📝 I’m passionate about user experience, interface optimization, and digital product development.
 🔭 Currently working on web design projects, visual identity, and PC optimization services.
