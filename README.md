@@ -59,8 +59,8 @@ I am Salomon Pinto
 
 
       
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MarciaGabrielle}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Salomonpinto}/count.svg" /></p>  
 <br>
 </div>
